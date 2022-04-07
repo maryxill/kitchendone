@@ -1,0 +1,685 @@
+html, body{
+    background-color: #dbf3f2;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+
+.menu{
+    list-style: none;
+    z-index: 2;
+}
+
+li{
+    font-family: "Oswald";
+    display: inline;
+    padding-left: 50px;
+}
+
+.ben {
+    margin-top: 50px;
+    margin-left: 50px;
+    top: -50px;
+    position: absolute;
+}
+
+.shapka {
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 150px;
+}
+
+.item1{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 45px;
+    color: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.item2{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 45px;
+
+    align-items: center;
+    color: #FFFFFF;
+
+}
+.item3{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 0px;
+    color: #FFFFFF;
+}
+.item4{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 0px;
+    background: linear-gradient(180deg, #FFF505 0%, #FF7D05 55.21%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    
+}
+
+.item5{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 45px;
+
+    align-items: center;
+    color: #FFFFFF;
+}
+
+.item6 {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 45px;
+    margin-left: 100px;
+    align-items: center;
+    color: #FFFFFF;
+}
+
+.kitchen-shapka{
+    background-image: url(../img/Group1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    position: relative;
+    height: 120vh;
+}
+
+
+h2 {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 0px;
+}
+
+
+
+
+
+
+
+h4 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 0px;
+    color:#fff;
+}
+
+
+
+h5 {
+    color:#fff;
+    font-weight: 400;
+    font-size: 44px;
+    line-height: 50px;
+    margin-top: 55px;
+}
+
+
+
+
+h3 {
+    color:#fff;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 45px;
+}
+
+
+p {
+    color:#fff;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 45px;
+}
+
+.god1 {
+    position: absolute;
+    width: 199px;
+    height: 45px;
+    left: 24px;
+    top: 0px;
+}
+
+.god2 {
+    position: absolute;
+    width: 199px;
+    height: 45px;
+    left: 243px;
+    top: 0px;
+    text-align: left;
+}
+
+
+.strana1 {
+    position: absolute;
+    width: 199px;
+    height: 45px;
+    left: -35px;
+    top: 80px;
+}
+
+.strana2 {
+    position: absolute;
+    width: 199px;
+    height: 45px;
+    left: 243px;
+    top: 80px;
+    text-align: left;
+}
+
+
+.janr1 {
+    position: absolute;
+    width: 199px;
+    height: 45px;
+    left: -43px;
+    top: 160px;
+}
+
+
+.janr2 {
+    position: absolute;
+    width: 199px;
+    height: 45px;
+    left: 243px;
+    top: 160px;
+    text-align: left;
+}
+
+.slogan1 {
+    position: absolute;
+    width: 199px;
+    height: 45px;
+    left: -35px;
+    top: 240px;
+}
+
+.slogan2 {
+    position: absolute;
+    width: 199px;
+    height: 45px;
+    left: 243px;
+    top: 240px;
+    text-align: left;
+}
+
+
+.rezhis1 {
+    position: absolute;
+    width: 199px;
+    height: 45px;
+    left: -20px;
+    top: 320px;
+}
+
+.rezhis2 {
+    position: absolute;
+    width: 199px;
+    height: 45px;
+    left: 243px;
+    top: 320px;
+    white-space: nowrap;
+    text-align: left;
+}
+
+.rezhis3 {
+    position: absolute;
+    width: 199px;
+    height: 45px;
+    left: 243px;
+    top: 370px;
+    white-space: nowrap;
+    text-align: left;
+}
+
+.rezhis4 {
+    position: absolute;
+    width: 199px;
+    height: 45px;
+    left: 243px;
+    top: 420px;
+    white-space: nowrap;
+    text-align: left;
+}
+
+.scenar1 {
+    position: absolute;
+    width: 199px;
+    height: 45px;
+    left: -20px;
+    top: 500px;
+}
+
+.scenar2 {
+    position: absolute;
+    width: 199px;
+    height: 45px;
+    left: 243px;
+    top: 500px;
+    white-space: nowrap;
+    text-align: left;
+}
+
+.scenar3 {
+    position: absolute;
+    width: 199px;
+    height: 45px;
+    left: 243px;
+    top: 550px;
+    white-space: nowrap;
+    text-align: left;
+}
+
+.scenar4 {
+    position: absolute;
+    width: 199px;
+    height: 45px;
+    left: 243px;
+    top: 600px;
+    white-space: nowrap;
+    text-align: left;
+}
+
+
+.produc1 {
+    position: absolute;
+    width: 199px;
+    height: 45px;
+    left: -15px;
+    top: 680px;
+}
+
+.produc2 {
+    position: absolute;
+    width: 199px;
+    height: 45px;
+    left: 243px;
+    top: 680px;
+    white-space: nowrap;
+    text-align: left;
+}
+
+.produc3 {
+    position: absolute;
+    width: 199px;
+    height: 45px;
+    left: 243px;
+    top: 730px;
+    white-space: nowrap;
+    text-align: left;
+}
+
+.produc4 {
+    position: absolute;
+    width: 199px;
+    height: 45px;
+    left: 243px;
+    top: 780px;
+    white-space: nowrap;
+    text-align: left;
+}
+
+
+.operator1 {
+    position: absolute;
+    width: 199px;
+    height: 45px;
+    left: -20px;
+    top: 860px;
+}
+
+.operator2 {
+    position: absolute;
+    width: 199px;
+    height: 45px;
+    left: 243px;
+    top: 860px;
+    white-space: nowrap;
+    text-align: left;
+}
+
+.operator3 {
+    position: absolute;
+    width: 199px;
+    height: 45px;
+    left: 243px;
+    top: 910px;
+    white-space: nowrap;
+    text-align: left;
+}
+
+.composit1 {
+    position: absolute;
+    width: 199px;
+    height: 45px;
+    left: -5px;
+    top: 990px;
+}
+
+.composit2 {
+    position: absolute;
+    width: 199px;
+    height: 45px;
+    left: 243px;
+    top: 990px;
+    white-space: nowrap;
+    text-align: left;
+}
+
+.montage1 {
+    position: absolute;
+    width: 199px;
+    height: 45px;
+    left: -25px;
+    top: 1070px;
+}
+
+.montage2 {
+    position: absolute;
+    width: 199px;
+    height: 45px;
+    left: 243px;
+    top: 1070px;
+    white-space: nowrap;
+    text-align: left;
+}
+
+.montage3 {
+    position: absolute;
+    width: 199px;
+    height: 45px;
+    left: 243px;
+    top: 1120px;
+    white-space: nowrap;
+    text-align: left;
+}
+
+
+.premier1 {
+    position: absolute;
+    width: 199px;
+    height: 45px;
+    left: -10px;
+    top: 1200px;
+}
+
+.premier2 {
+    position: absolute;
+    width: 199px;
+    height: 45px;
+    left: 243px;
+    top: 1200px;
+    white-space: nowrap;
+    text-align: left;
+}
+
+
+.rectang2 {
+position: absolute;
+width: 1196px;
+height: 364px;
+left: 372px;
+top: 2136px;
+background: #000000;
+}
+
+
+
+.rectang3 {
+    position: absolute;
+    width: 710px;
+    height: 1370px;
+    left: 620px;
+    top: 2620px;
+    background: #000000;
+}
+
+
+.rectang4 {
+    position: absolute;
+    width: 954px;
+    height: 262px;
+    left: 498px;
+    top: 4350px;
+    background: #FFFFFF;
+}
+
+.rectang5 {
+    position: absolute;
+    width: 954px;
+    height: 262px;
+    left: 498px;
+    top: 4750px;
+    background: #FFFFFF;
+}
+
+.rectang6 {
+    position: absolute;
+    width: 954px;
+    height: 262px;
+    left: 498px;
+    top: 5150px;
+    background: #FFFFFF;
+}
+
+
+.mainrolestext {
+    position: absolute;
+    left: 780px;
+    top: 1242px;
+    
+}
+
+
+.aboursertext {
+    position: absolute;
+    left: 855px;
+    top: 2032px;
+}
+
+.feedbacktext {
+    position: absolute;
+    left: 900px;
+    top: 4200px;
+}
+
+p2 {
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 45px;
+    color:#fff;
+}
+
+
+p1 {
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 45px;
+}
+
+.parash2007 {
+    position: absolute;
+    left: 50px;
+    top: -5px;
+}
+
+.text-fb1 {
+    position: absolute;
+    top: 40px;
+    left: 180px;
+}
+
+.mark1 {
+    position: absolute;
+    left: 790px;
+    top: 205px;
+}
+
+.namerect1 {
+    width: 223px;
+    height: 261px;
+    left: 498px;
+    top: 4350px;
+    background: #000000;
+}
+
+.shefik {
+    position: absolute;
+    left: 0px;
+    top: 39px;
+}
+
+
+.dotarap {
+    position: absolute;
+    left: 25px;
+    top: -5px;
+}
+
+
+.senya {
+    position: absolute;
+    left: 0px;
+    top: 39px;
+}
+
+.text-fb2 {
+    position: absolute;
+    top: 40px;
+    left: 245px;
+}
+
+.mark2 {
+    position: absolute;
+    left: 790px;
+    top: 205px;
+}
+
+.namerect2 {
+    width: 223px;
+    height: 261px;
+    left: 498px;
+    top: 4550px;
+    background: #000000;
+}
+
+
+.namerect3 {
+    width: 223px;
+    height: 261px;
+    left: 498px;
+    top: 4550px;
+    background: #000000;
+}
+
+
+.mark3 {
+    position: absolute;
+    left: 790px;
+    top: 205px;
+}
+
+
+.og-uzok {
+    position: absolute;
+    left: 0px;
+    top: 39px;
+}
+
+.oggguzok {
+    position: absolute;
+    left: 70px;
+    top: -7px;
+}
+
+
+.shef {
+    padding-top: 20px;
+}
+
+.text-fb3 {
+    position: absolute;
+    top: 40px;
+    left: 245px;
+}
+
+
+.oguzok {
+    padding-top: 20px;
+}
+
+.lisiy {
+    padding-top: 20px;
+}
+
+.rectang-item1 {
+    position: absolute;
+    width: 345px;
+    height: 431px;
+    left: 366px;
+    top: 1378px;
+    background: #000000;
+}
+
+
+.rectang-item2 {
+position: absolute;
+width: 345px;
+height: 431px;
+left: 793px;
+top: 1378px;
+background: #000000;
+}
+
+
+.rectang-item3 {
+position: absolute;
+width: 345px;
+height: 431px;
+left: 1218px;
+top: 1378px;
+background: #000000;
+}
+
+
+.footer {
+    background: #000000;
+    padding: 30px 0px 30px;
+    margin-top: 4500px;
+}
+
+.box-footer {
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+    font-size: 16px;
+}
+
+
+
+
+
+
+
